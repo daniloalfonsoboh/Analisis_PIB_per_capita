@@ -11,9 +11,9 @@ Análisis de regresión utilizando como insumo la base de gapminder sobre difere
 
 En este repositorio se encuentran los datasets utilizados para la creación del análisis de regresión para el PIB per cápita.
 
--gapminder_final.csv:Contiene la información de los países, proporcionadas por el portal de gapminder.
--region.csv:Contiene la información de las regiones a las cuales pertenecen cada uno de los países.
--features_adicionales.csv: Contiene variables adicionales, categoricas principalmente que permiten complementar el dataset de gapminder_final.csv
+- gapminder_final.csv: Contiene la información de los países, proporcionadas por el portal de gapminder.
+- region.csv: Contiene la información de las regiones a las cuales pertenecen cada uno de los países.
+- features_adicionales.csv: Contiene variables adicionales, categoricas principalmente que permiten complementar el dataset de gapminder_final.csv
 
 **Archivos PDF**
 
@@ -26,4 +26,5 @@ En este repositorio se encuentran los datasets utilizados para la creación del 
 El archivo fue desarrollado en Jupyter Notebook en la máquina local por ende, para ejecutarse deben descargarse los respectivos Datasets.
 
 **Gracias**
+
 
