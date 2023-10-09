@@ -1,0 +1,287 @@
+sigle;country;world_region
+abkh;Abkhazia;europe
+abw;Aruba;americas
+afg;Afghanistan;asia
+ago;Angola;africa
+aia;Anguilla;americas
+akr_a_dhe;Akrotiri and Dhekelia;europe
+ala;Åland;europe
+alb;Albania;europe
+and;Andorra;europe
+ant;Netherlands Antilles;americas
+are;UAE;asia
+arg;Argentina;americas
+arm;Armenia;europe
+asm;American Samoa;Oceania
+ata;Antarctica;europe
+atg;Antigua and Barbuda;americas
+aus;Australia;Oceania
+aut;Austria;europe
+aze;Azerbaijan;europe
+bdi;Burundi;africa
+bel;Belgium;europe
+ben;Benin;africa
+bfa;Burkina Faso;africa
+bgd;Bangladesh;asia
+bgr;Bulgaria;europe
+bhr;Bahrain;asia
+bhs;Bahamas;americas
+bih;Bosnia and Herzegovina;europe
+blr;Belarus;europe
+blz;Belize;americas
+bmu;Bermuda;americas
+bol;Bolivia;americas
+bouisl;Bouvet Island;africa
+bra;Brazil;americas
+brb;Barbados;americas
+brn;Brunei;asia
+btn;Bhutan;asia
+bwa;Botswana;africa
+caf;Central African Republic;africa
+can;Canada;americas
+cck;Cocos Island;Oceania
+chanisl;Channel Islands;europe
+che;Switzerland;europe
+cheslo;Czechoslovakia;europe
+chl;Chile;americas
+chn;China;asia
+civ;Cote d'Ivoire;africa
+cmr;Cameroon;africa
+cod;Congo Dem Rep;africa
+cog;Congo Rep;africa
+cok;Cook Is;asia
+col;Colombia;americas
+com;Comoros;africa
+cpv;Cape Verde;africa
+cri;Costa Rica;americas
+cub;Cuba;americas
+cxr;Christmas Island;asia
+cym;Cayman Islands;americas
+cyp;Cyprus;europe
+cyp_nor;Northern Cyprus;europe
+cze;Czech Republic;europe
+deu;Germany;europe
+deu_east;East Germany;europe
+deu_west;West Germany;europe
+dji;Djibouti;africa
+dma;Dominica;americas
+dnk;Denmark;europe
+dom;Dominican Republic;americas
+dza;Algeria;africa
+ecu;Ecuador;americas
+egy;Egypt;africa
+eri;Eritrea;africa
+eri_a_eth;Eritrea and Ethiopia;africa
+esh;Western Sahara;africa
+esp;Spain;europe
+est;Estonia;europe
+eth;Ethiopia;africa
+fin;Finland;europe
+fji;Fiji;asia
+flk;Falkland Is (Malvinas);americas
+fra;France;europe
+fra_antarc;French Southern and Antarctic Lands;
+fra_clipperton;Clipperton;
+fro;Faeroe Islands;europe
+fsm;Micronesia, Fed. Sts.;Oceania
+gab;Gabon;africa
+gbg;Guernsey;europe
+gbm;Isle of Man;europe
+gbr;UK;europe
+geo;Georgia;europe
+gha;Ghana;africa
+gib;Gibraltar;europe
+gin;Guinea;africa
+glp;Guadeloupe;americas
+gmb;Gambia;africa
+gnb;Guinea-Bissau;africa
+gnq;Equatorial Guinea;africa
+grc;Greece;europe
+grd;Grenada;americas
+grl;Greenland;europe
+gtm;Guatemala;americas
+guf;French Guiana;americas
+gum;Guam;asia
+guy;Guyana;americas
+heard_a_mcd;Heard and McDonald Islands;asia
+hkg;Hong Kong, China;asia
+hnd;Honduras;americas
+hos;Holy See;europe
+hrv;Croatia;europe
+hti;Haiti;americas
+hun;Hungary;europe
+idn;Indonesia;asia
+ind;India;asia
+iot;British Indian Ocean Territory;asia
+irl;Ireland;europe
+irn;Iran;asia
+irq;Iraq;asia
+isl;Iceland;europe
+isr;Israel;asia
+ita;Italy;europe
+jam;Jamaica;americas
+jey;Jersey;europe
+jor;Jordan;asia
+jpn;Japan;asia
+kaz;Kazakhstan;asia
+ken;Kenya;africa
+kgz;Kyrgyz Republic;asia
+khm;Cambodia;asia
+kir;Kiribati;Oceania
+kna;St. Kitts and Nevis;americas
+kor;South Korea;asia
+korea_union;United Korea (former);asia
+kos;Kosovo;europe
+kwt;Kuwait;asia
+lao;Lao;asia
+lbn;Lebanon;asia
+lbr;Liberia;africa
+lby;Libya;africa
+lca;St. Lucia;americas
+lie;Liechtenstein;europe
+lka;Sri Lanka;asia
+lso;Lesotho;africa
+ltu;Lithuania;europe
+lux;Luxembourg;europe
+lva;Latvia;europe
+mac;Macao, China;asia
+maf;St. Martin (French part);americas
+mar;Morocco;africa
+mco;Monaco;europe
+mda;Moldova;europe
+mdg;Madagascar;africa
+mdv;Maldives;asia
+mex;Mexico;americas
+mhl;Marshall Islands;Oceania
+mkd;North Macedonia;europe
+mli;Mali;africa
+mlt;Malta;europe
+mmr;Myanmar;asia
+mne;Montenegro;europe
+mng;Mongolia;asia
+mnp;Northern Mariana Islands;asia
+moz;Mozambique;africa
+mrt;Mauritania;africa
+msr;Montserrat;americas
+mtq;Martinique;americas
+mus;Mauritius;africa
+mwi;Malawi;africa
+mys;Malaysia;asia
+myt;Mayotte;africa
+nam;Namibia;africa
+ncl;New Caledonia;Oceania
+ner;Niger;africa
+nfk;Norfolk Island;asia
+nga;Nigeria;africa
+ngokar;Ngorno-Karabakh;europe
+nic;Nicaragua;americas
+niu;Niue;asia
+nld;Netherlands;europe
+nld_curacao;Curaçao;americas
+nor;Norway;europe
+npl;Nepal;asia
+nru;Nauru;Oceania
+nzl;New Zealand;Oceania
+omn;Oman;asia
+pak;Pakistan;asia
+pan;Panama;americas
+pcn;Pitcairn;asia
+per;Peru;americas
+phl;Philippines;asia
+plw;Palau;Oceania
+png;Papua New Guinea;Oceania
+pol;Poland;europe
+pri;Puerto Rico;americas
+prk;Korea Rep;asia
+prt;Portugal;europe
+pry;Paraguay;americas
+pse;Palestine;asia
+pse_gaza;Gaza Strip;asia
+pse_west_bank;West Bank;asia
+pyf;French Polynesia;asia
+qat;Qatar;asia
+reu;Reunion;africa
+rou;Romania;europe
+rus;Russia;europe
+rwa;Rwanda;africa
+sau;Saudi Arabia;asia
+scg;Serbia and Montenegro;europe
+scg_ex_kos;Serbia excluding Kosovo;europe
+sdn;Sudan;africa
+sen;Senegal;africa
+sgero_a_ssandw;South Georgia and the South Sandwich Islands;americas
+sgp;Singapore;asia
+shn;St. Helena;africa
+sjm;Svalbard;europe
+slb;Solomon Islands;asia
+sle;Sierra Leone;africa
+slv;El Salvador;americas
+smr;San Marino;europe
+som;Somalia;africa
+som_somland;Somaliland;africa
+sosset;South Ossetia;europe
+spm;St.-Pierre-et-Miquelon;americas
+srb;Serbia;europe
+ssd;South Sudan;africa
+stbar;St. Barthélemy;americas
+stmar;St. Martin;americas
+stp;Sao Tome and Principe;africa
+sur;Suriname;americas
+svk;Slovak Republic;europe
+svn;Slovenia;europe
+swe;Sweden;europe
+swz;Eswatini;africa
+sxm;Sint Maarten (Dutch part);americas
+syc;Seychelles;africa
+syr;Syria;asia
+tca;Turks and Caicos Islands;americas
+tcd;Chad;africa
+tgo;Togo;africa
+tha;Thailand;asia
+tjk;Tajikistan;asia
+tkl;Tokelau;asia
+tkm;Turkmenistan;asia
+tls;Timor-Leste;asia
+ton;Tonga;Oceania
+transn;Transnistria;europe
+tto;Trinidad and Tobago;americas
+tun;Tunisia;africa
+tur;Turkey;europe
+tuv;Tuvalu;Oceania
+twn;Taiwan;asia
+tza;Tanzania;africa
+uga;Uganda;africa
+ukr;Ukraine;europe
+ury;Uruguay;americas
+usa;USA;americas
+usa_minor_out_isl;US Minor Outlying Islands;americas
+ussr;USSR;europe
+uzb;Uzbekistan;asia
+vct;St. Vincent and the Grenadines;americas
+ven;Venezuela;americas
+vgb;British Virgin Islands;americas
+vir;Virgin Islands (U.S.);americas
+vnm;Vietnam;asia
+vut;Vanuatu;Oceania
+wlf;Wallis et Futuna;asia
+wsm;Samoa;Oceania
+yem;Yemen;asia
+yem_north;North Yemen (former);asia
+yem_south;South Yemen (former);asia
+yug;Yugoslavia;europe
+zaf;South Africa;africa
+zmb;Zambia;africa
+zwe;Zimbabwe;africa
+caf;Central African Rep.;africa
+mkd;Macedonia;europe
+yem;Yemen, Rep.;asia
+swz;Swaziland;africa
+kgz;Kyrgyzstan;asia
+fry;Macedonia, FYR;europe
+cod;Congo Dem. Rep;africa
+dom;Dominican Rep.;americas
+gbr;United Kingdom;europe
+cze;Czech Rep.;europe
+are;United Arab Emirates;asia
+lao;Laos;asia
+usa;United States;americas
